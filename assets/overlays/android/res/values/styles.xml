@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+    <!--LET'S START MAKING THESE DIALOGS AND POPUPS AND WIDGET SHITS LOOK BADASS -->
+
+<resources>
+    <style name="Theme.Black" parent="@android:style/Theme.Black">
+        <item name="android:panelColorBackground">@*common:color/background_material_dark</item>
+        <item name="android:panelColorForeground">@*common:color/secondary_text_color</item>
+        <item name="android:colorBackground">@*common:color/background_material_black</item>
+        <item name="android:colorForeground">@*common:color/primary_text_color</item>
+        <item name="android:windowBackground">@*common:color/background_material_dark</item>
+        <item name="android:windowShowWallpaper">false</item>
+        <item name="android:colorBackgroundCacheHint">@*common:color/background_material_10_black</item>
+        <item name="android:colorControlActivated">@*common:color/theme_accent</item>
+        <item name="android:statusBarColor">@*common:color/background_material_dark</item>
+    </style>
+
+    <!--actionbar-->
+    <style name="Widget.Material.ActionBar" parent="@android:style/Widget.Material.ActionBar">
+        <item name="android:background">@*android:color/transparent</item>
+        <item name="android:backgroundStacked">@*common:color/background_material_75_black</item>
+        <item name="android:backgroundSplit">@*common:color/background_material_75_black</item>
+    </style>
+    <style name="Widget.Material.ActionBar.Solid" parent="@android:style/Widget.Material.ActionBar.Solid">
+        <item name="android:background">@*android:color/transparent</item>
+        <item name="android:backgroundStacked">@*common:color/background_material_75_black</item>
+        <item name="android:backgroundSplit">@*common:color/background_material_75_black</item>
+    </style>
+
+    <!--TextAppearance-->
+    <style name="TextAppearance.Material.Notification" parent="@android:style/TextAppearance.Material">
+        <item name="android:textColor">@*common:color/primary_text_color</item>
+    </style>
+    <style name="TextAppearance.Material.Notification.Emphasis" parent="@style/TextAppearance.Material.Notification">
+        <item name="android:textColor">@*common:color/secondary_text_color</item>
+    </style>
+    <style name="TextAppearance.Material.Notification.Title" parent="@style/TextAppearance.Material.Notification">
+        <item name="android:textColor">@*common:color/accent_text_color</item>
+    </style>
+
+</resources>
