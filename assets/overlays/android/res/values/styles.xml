@@ -13,18 +13,21 @@
         <item name="android:colorBackgroundCacheHint">@*common:color/background_material_10_black</item>
         <item name="android:colorControlActivated">@*common:color/theme_accent</item>
         <item name="android:statusBarColor">@*common:color/background_material_dark</item>
+        <item name="android:textColor">@*common:color/primary_text_color</item>
     </style>
 
     <!--actionbar-->
     <style name="Widget.Material.ActionBar" parent="@android:style/Widget.Material.ActionBar">
         <item name="android:background">@*android:color/transparent</item>
-        <item name="android:backgroundStacked">@*common:color/background_material_75_black</item>
-        <item name="android:backgroundSplit">@*common:color/background_material_75_black</item>
+        <item name="android:backgroundStacked">@*common:color/background_material_dark</item>
+        <item name="android:backgroundSplit">@*common:color/background_material_dark</item>
+        <item name="android:textColor">@*common:color/primary_text_color</item>
     </style>
     <style name="Widget.Material.ActionBar.Solid" parent="@android:style/Widget.Material.ActionBar.Solid">
         <item name="android:background">@*android:color/transparent</item>
-        <item name="android:backgroundStacked">@*common:color/background_material_75_black</item>
-        <item name="android:backgroundSplit">@*common:color/background_material_75_black</item>
+        <item name="android:backgroundStacked">@*common:color/background_material_dark</item>
+        <item name="android:backgroundSplit">@*common:color/background_material_dark</item>
+        <item name="android:textColor">@*common:color/primary_text_color</item>
     </style>
 
     <!--TextAppearance-->
