@@ -7,7 +7,7 @@
     <style name="Theme.SettingsBase" parent="@android:style/Theme.Material.Wallpaper" />
     <style name="Theme.Settings" parent="@style/Theme.SettingsBase">
         <item name="android:colorBackground">@*common:color/background_material_75_black</item>
-        <item name="android:textColor">@*common:color/primary_text_color</item>
+        <item name="android:colorAccent">@*common:color/theme_accent</item>
         <item name="android:statusBarColor">@*common:color/background_material_black</item>
     </style>
     <style name="CardView">

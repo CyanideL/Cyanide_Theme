@@ -7,7 +7,7 @@
     <color name="notification_panel_solid_background">@*common:color/backgroundplayground</color>	
     <color name="system_primary_color">@*common:color/background_material_black</color>
     <color name="system_secondary_color">@*common:color/background_material_dark</color>
-    <color name="system_accent_color">@*common:color/secondary_text_color</color>
+    <color name="system_accent_color">@*common:color/primary_text_color</color>
 	
 	<!-- Quick Settings in Notification drawer -->	
     <color name="qs_text">#ff1976D2</color>

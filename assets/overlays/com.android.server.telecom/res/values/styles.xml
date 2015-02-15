@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!--STYLES OVERRIDE FOR TELECOM SHIT-->
+<!--You are editing TeleService.apk's Colors-->
+<!--LAST REVISED ON: 12:03AM EST 06/02/2015-->
 
 <resources>
     <style name="Theme.Settings" parent="@android:style/Theme.Material" >

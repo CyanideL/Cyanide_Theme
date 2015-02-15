@@ -13,7 +13,7 @@
     <color name="system_notification_accent_color">#ff1976D2</color>
 	
     <color name="primary_text_default_material_dark">#ffffffff</color>
-    <color name="secondary_text_default_material_dark">#ffeeeeee</color>
+    <color name="secondary_text_default_material_dark">#ffffffff</color>
 	
 	<color name="highlighted_text_material_light">#660D47A1</color>
     <color name="highlighted_text_material_dark">#660D47A1</color>
@@ -29,7 +29,6 @@
     <color name="notification_media_primary_color">#ffffffff</color>
     <color name="notification_media_secondary_color">#ffffffff</color>
     <color name="btn_material_color">#ff1976D2</color>
-    <color name="background">#ff000000</color>
     <color name="text">#ffffffff</color>
 	<color name="ripple_material_dark">#ff0D47A1</color>
 	
@@ -42,7 +41,7 @@
     <color name="background_material_light">#a0eeeeee</color>
     <color name="background_floating_material_dark">#cc111111</color>
     <color name="background_floating_material_light">#cceeeeee</color>
-    <color name="primary_text_default_material_light">#ff000000</color>
-    <color name="secondary_text_default_material_light">#ff111111</color>
+    <color name="primary_text_default_material_light">#ffffffff</color>
+    <color name="secondary_text_default_material_light">#ffffffff</color>
 
 </resources>

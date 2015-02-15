@@ -4,10 +4,10 @@
 <resources>
     <color name="title_color">@*common:color/primary_text_color</color>
     <color name="theme_accent">#ff1976D2</color>
-    <color name="dashboard_category_background_color">@*common:color/background_material_75_black</color>
+    <color name="dashboard_category_background_color">#30000000</color>
     <color name="cardview_light_background">@*common:color/background_material_medium</color>
     <color name="cardview_dark_background">@*common:color/background_material_dark</color>
-    <color name="dashboard_background_color">#30000000</color>
+    <color name="dashboard_background_color">@*common:color/background_material_75_black</color>
     <color name="switchbar_background_color">@*common:color/backgroundplayground</color>
 
     <color name="wifi_assistant_color_accent">@*common:color/theme_accent</color>
