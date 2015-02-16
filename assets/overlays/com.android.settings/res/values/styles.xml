@@ -9,6 +9,8 @@
         <item name="android:colorBackground">@*common:color/background_material_75_black</item>
         <item name="android:colorAccent">@*common:color/theme_accent</item>
         <item name="android:statusBarColor">@*common:color/background_material_black</item>
+        <item name="android:textColorPrimary">@*common:color/primary_text_color</item>
+		<item name="android:textColorSecondary">@*common:color/primary_text_color</item>
     </style>
     <style name="CardView">
         <item name="cardBackgroundColor">@*common:color/background_material_75_black</item>

@@ -13,4 +13,7 @@
     <attr name="setup_divider_color" format="reference" />
     <attr name="wifi_signal_color" format="reference" />
     <attr name="wifi_signal" format="reference" />
+    <attr name="colorPrimary" format="color" />
+    <attr name="colorPrimaryDark" format="color" />
+    <attr name="colorAccent" format="color" />
 </resources>

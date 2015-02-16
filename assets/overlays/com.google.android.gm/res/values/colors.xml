@@ -8,10 +8,10 @@
     <color name="quantum_googred800">#ff000000</color>	
 
 	<color name="drawer_item_activated_background_color">#b4000000</color>
-	<color name="list_background_color">#ff212021</color>
+	<color name="list_background_color">#ff000000</color>
 	<color name="manage_accounts_text_color">#ff777777</color>
 	<color name="primary_material_dark">#ff777777</color>
-	<color name="swiped_bg_color">#ff212021</color>
+	<color name="swiped_bg_color">#ff000000</color>
 	<color name="text_color_black">#ffffffff</color>
 
 	<color name="ap_overflow_badge_color">#ff000000</color>

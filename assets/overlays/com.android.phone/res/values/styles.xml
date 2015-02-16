@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="SettingsLight" parent="@android:style/Theme.Material">
+        <item name="android:colorPrimaryDark">@*common:color/background_material_black</item>
+        <item name="android:colorPrimary">@*common:color/background_material_black</item>
+        <item name="android:colorAccent">@*common:color/theme_accent</item>		
+    </style>
+    <style name="DialerSettingsLight" parent="@style/SettingsLight">
+        <item name="android:colorAccent">@*common:color/theme_accent</item>
+    </style>
+    <style name="DialerAlertDialogTheme" parent="@android:style/Theme.Material.Dialog">
+        <item name="android:colorAccent">@*common:color/background_material_black</item>
+    </style>
+    <style name="NetworkOperatorsSettingsTheme" parent="@android:style/Theme.Material">
+        <item name="android:actionBarTheme">@*common:color/backgroundplayground</item>
+        <item name="android:colorPrimary">@*common:color/background_material_black</item>
+        <item name="android:colorPrimaryDark">@*common:color/background_material_black</item>
+    </style>
+    <style name="Theme.Material.Settings" parent="@android:style/Theme.Material.Settings">
+        <item name="android:actionBarSize">56.0dip</item>
+        <item name="preferenceBackgroundColor">@drawable/preference_background</item>
+    </style>
+</resources>
