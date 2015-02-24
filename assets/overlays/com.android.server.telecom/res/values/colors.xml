@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!--COLORS OVERRIDE FOR TELECOM SHIT-->
+<!--THIS IS TELESERVICE SHIT, LET'S EDIT THIS BITCH -->
+
 
 <resources>
     <color name="theme_color">#ff000000</color>
-    <color name="accent">#ff1976D2</color>
+    <color name="accent">#ff000000</color>
 
     <color name="primary">#ff000000</color>
     <color name="primary_dark">#ff000000</color>
@@ -11,6 +12,6 @@
     <color name="tabFaviconBackground">#ff1976D2</color>
     <color name="floating_action_button_touch_tint">#ff1976D2</color>
 	
-    <color name="qc_normal">#ff212021</color>
-    <color name="qc_selected">#ff777777</color>
+    <color name="qc_normal">#ff000000</color>
+    <color name="qc_selected">#ff1976D2</color>
 </resources>

@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="utf-8"?>
+<!--LATINIME SHIT, LET'S EDIT THIS BITCH -->
 
-    <!-- COLOR OVERRIDES FOR INPUT METHOD SHIT -->
 <resources>
-    <color name="emoji_tab_page_indicator_background_lxx_light">#ff10141b</color>
-    <color name="key_text_color_lxx_light">#ff0d47a1</color>
-    <color name="key_functional_text_color_lxx_light">#cc0d47a1</color>
-    <color name="key_background_lxx_light">#ff181e26</color>
-    <color name="key_background_pressed_lxx_light">#260d47a1</color>
+	<color name="emoji_tab_page_indicator_background_lxx_light">#ff000000</color>
+    <color name="key_text_color_lxx_light">#ff1976D2</color>
+    <color name="key_functional_text_color_lxx_light">#ff1976D2</color>
+    <color name="key_background_lxx_light">#ff000000</color>
+    <color name="key_background_pressed_lxx_light">#ff1976D2</color>
     <color name="gesture_trail_color_lxx_light">#ff1976D2</color>
 	
-    <color name="suggested_word_color_klp">#b2f0f0f0</color>
-	<color name="suggested_word_color_lxx_light">#b30d47a1</color>
-    <color name="suggested_word_background_selected_lxx_light">#260d47a1</color>
+    <color name="suggested_word_color_klp">#ffffffff</color>
+	<color name="suggested_word_color_lxx_light">#ffffffff</color>
+    <color name="suggested_word_background_selected_lxx_light">#d4000000</color>
 	
-    <color name="gesture_floating_preview_color_lxx_light">#e610141b</color>
-	<color name="key_text_inactive_color_lxx_light">#b30d47a1</color>
-	<color name="key_hint_letter_color_lxx_light">#b30d47a1</color>
-	<color name="typed_word_color_lxx_light">#d90d47a1</color>
+    <color name="gesture_floating_preview_color_lxx_light">#d4000000</color>
+	<color name="key_text_inactive_color_lxx_light">#b3ffffff</color>
+	<color name="key_hint_letter_color_lxx_light">#b3ffffff</color>
+	<color name="typed_word_color_lxx_light">#ffffffff</color>
 	
-	<color name="language_on_spacebar_text_color_lxx_light">#b30d47a1</color>
-	<color name="auto_correct_color_lxx_light">#ff0d47a1</color>
+	<color name="language_on_spacebar_text_color_lxx_light">#ffffffff</color>
+	<color name="auto_correct_color_lxx_light">#ffffffff</color>
 </resources>

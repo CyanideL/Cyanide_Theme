@@ -1,15 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!--THIS IS YOUTUBE SHIT, LET'S EDIT THIS BITCH-->
+<!--THIS IS YOUTUBE SHIT, LET'S EDIT THIS BITCH -->
 
 <resources>
 	<color name="account_switcher_color_primary">#ff000000</color>
 	<color name="upload_edit_video_tutorial_background">#ff000000</color>
 	<color name="color_primary">#ff000000</color>
-	<color name="q_subscribe_button_subscribe_font_color">#ffffffff</color>
+	<color name="q_subscribe_button_subscribe_font_color">#ff000000</color>
 	
+	<color name="playlist_header_color_primary">#ff000000</color>
+    <color name="playlist_header_color_primary_dark">#ff000000</color>
+	<color name="theme_main_actionbar_controls_color">#ffffffff</color>
 	<color name="theme_main_color_primary">#ff000000</color>
     <color name="theme_main_color_primary_dark">#ff000000</color>
-    <color name="theme_main_tab_text_color_normal">#ffffffff</color>
+    <color name="theme_main_tab_text_color_normal">#ff726f6f</color>
     <color name="theme_main_tab_text_color_activated">#ffffffff</color>
     <color name="theme_channel_color_primary">#ff000000</color>
     <color name="theme_channel_color_primary_dark">#ff000000</color>
@@ -26,23 +29,14 @@
     <color name="theme_native_color_primary">#ff000000</color>
     <color name="theme_native_color_primary_dark">#ff000000</color>
     <color name="theme_native_actionbar_text_color_primary">#ffffffff</color>
-    <color name="theme_native_actionbar_text_color_secondary">#ff1976D2</color>
-	
-	<color name="theme_main_actionbar_controls_color">#ff1976D2</color>
-	<color name="theme_main_window_background">#ff000000</color>
-    <color name="share_panel_background_color">#ff000000</color>
-	
-    <color name="playlist_header_color_primary">#ff000000</color>
-    <color name="playlist_header_color_primary_dark">#ff000000</color>
-
-	<color name="background_material_light">#ff000000</color>
-	<color name="background_floating_material_light">#ff000000</color>
-	<color name="callout_drawable_background_color">#ff000000</color>
-	<color name="video_trim_view_container_bottom">#ff000000</color>
+    <color name="theme_native_actionbar_text_color_secondary">#ffffffff</color>
 	
     <color name="guide_background">#ff000000</color>
-	<color name="guide_bg_selected">#ffffffff</color>
-    <color name="guide_selected_text_color">#ff1976D2</color>
+	<color name="guide_bg_selected">#ff000000</color>
+    <color name="guide_selected_text_color">#ffff0000</color>
     <color name="guide_label_text_color">#ffffffff</color>
-    <color name="guide_account_thumbnail_background">#ff000000</color>
+    <color name="guide_account_thumbnail_background">#ff212021</color>
+	
+    <color name="text_color_primary_default_light">#ffffffff</color>
+    <color name="text_color_secondary_default_light">#ffffffff</color>
 </resources>
